@@ -1,6 +1,25 @@
 # 🎯 3D-Mesh-Lib - Your Ultimate 3D Mesh Co-Pilot
 
-**Robust, AI-friendly mesh editing in TypeScript/JavaScript.** Effortlessly craft everything from rapid prototypes to stunning professional 3D applications. Build smarter, not harder!
+# 3D-Mesh-Lib – Your Ultimate 3D Mesh Co-Pilot
+
+[![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-lightgrey)](https://github.com/sponsors/CharmingBlaze)
+[![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue)](https://coff.ee/charmingblaze)
+
+---
+
+**Robust, AI-friendly mesh editing in TypeScript/JavaScript.**  
+From quick prototypes to high-end 3D tools, 3d-mesh-lib helps you build smarter, not harder.
+
+---
+
+## ☕ Support the Project
+
+Hi, I’m Jesse—the developer behind 3d-mesh-lib.  
+If this library has saved you time, taught you something, or helped you ship a cool project, please consider [buying me a coffee](https://coff.ee/charmingblaze) or [sponsoring on GitHub](https://github.com/sponsors/CharmingBlaze).
+
+Every bit of support makes a difference. It keeps me caffeinated, motivated, and able to put more hours into making this project even better for you and the whole community. Thank you for making open source awesome. 🙏
+
+---
 
 ## 🚀 Quick Start
 
