@@ -1,6 +1,5 @@
 # 🎯 3D-Mesh-Lib - Your Ultimate 3D Mesh Co-Pilot
 
-# 3D-Mesh-Lib – Your Ultimate 3D Mesh Co-Pilot
 
 [![Sponsor on GitHub](https://img.shields.io/badge/Sponsor-GitHub-lightgrey)](https://github.com/sponsors/CharmingBlaze)
 [![Buy me a coffee](https://img.shields.io/badge/Buy%20me%20a%20coffee-blue)](https://coff.ee/charmingblaze)
